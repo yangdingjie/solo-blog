@@ -1,8 +1,8 @@
-<p align="center"><img alt="杰 的个人博客" src="https://static.b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+<p align="center"><img alt="杰 的个人博客" src="https://b3log.org/images/brand/solo-128.png"></p><h2 align="center">
 杰 的个人博客
 </h2>
 
-<h4 align="center">怎么使用面向对象的方式变得富有？当然是继承。</h4>
+<h4 align="center">杀一个程序员不需要用枪，改三次需求就可以了。</h4>
 <p align="center"><a title="杰 的个人博客" target="_blank" href="https://github.com/yangdingjie/solo-blog"><img src="https://img.shields.io/github/last-commit/yangdingjie/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/yangdingjie/solo-blog"><img src="https://img.shields.io/github/repo-size/yangdingjie/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
