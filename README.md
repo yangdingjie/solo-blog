@@ -1,11 +1,11 @@
-<p align="center"><img alt="杰个人博客" src="https://b3log.org/images/brand/solo-128.png"></p><h2 align="center">
-杰个人博客
+<p align="center"><img alt="杰的个人博客" src="https://b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+杰的个人博客
 </h2>
 
-<h4 align="center">终究成为自己讨厌的恶龙</h4>
-<p align="center"><a title="杰个人博客" target="_blank" href="https://github.com/yangdingjie/solo-blog"><img src="https://img.shields.io/github/last-commit/yangdingjie/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">代码是诗，BUG是远方。</h4>
+<p align="center"><a title="杰的个人博客" target="_blank" href="https://github.com/yangdingjie/solo-blog"><img src="https://img.shields.io/github/last-commit/yangdingjie/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/yangdingjie/solo-blog"><img src="https://img.shields.io/github/repo-size/yangdingjie/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/yangdingjie/solo-blog.svg"></a></p>
 
 ### 最新
